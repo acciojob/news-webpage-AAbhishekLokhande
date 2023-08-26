@@ -7,6 +7,8 @@
     justify-content: center;
     background-color: #011E29;
     color: #FEFEFF;
+	text-align: center;
+	padding:1px;
     
 }
 .h1{
@@ -51,6 +53,7 @@
     height: 700px;
     border-radius: 10px;
     padding: 10px;
+	text-align:center;
 }
 .img{
     width: 200px;
